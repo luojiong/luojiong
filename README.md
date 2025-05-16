@@ -11,5 +11,5 @@ Hi there! 👋 I am an experienced software developer with a passion for buildin
 </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luojiong&langs_count=8&hide_border=true&theme=tokyonight&count_private=true&hide=html,css,javascript,vue,cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luojiong&langs_count=10&hide_border=true&theme=tokyonight&count_private=true&hide=html,css,javascript,vue,cmake" />
 </a>
